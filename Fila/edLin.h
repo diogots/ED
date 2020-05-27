@@ -1,0 +1,14 @@
+FILA* criaFila();
+int vaziaF(FILA* fila);
+void enqueue(FILA* fila, int valor);
+int dequeue(FILA* fila);
+int first(FILA* fila);
+void destroiFila(FILA *fila);
+PILHA* criaPilha();
+int vaziaP(PILHA* pilha);
+void push(PILHA* pilha, int valor);
+int pop(PILHA* pilha);
+int top(PILHA* pilha);
+void destroiPilha(PILHA* pilha);
+void printFila(FILA* fila);
+void printPilha(PILHA* pilha);

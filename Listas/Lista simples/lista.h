@@ -1,0 +1,16 @@
+typedef struct node NODE;
+NODE* criaLista();
+NODE* insereIni(NODE* lista, int valor);
+NODE* insereFim(NODE* lista, int valor);
+NODE* insereOrd(NODE* lista, int valor);
+void printLista(NODE* lista);
+NODE* buscaElem(NODE* lista, int valor);
+void editaElem(NODE* edit, int valor);
+NODE* removeIni(NODE* lista);
+NODE* removeFim(NODE* lista);
+NODE* removeElem(NODE* lista, int valor);
+void destroiLista(NODE* lista);
+NODE* inverte(NODE* lista);
+NODE* concatena(NODE* L1, NODE* L2);
+int ehSublista(NODE* L1, NODE* L2);
+float media(NODE* lista);

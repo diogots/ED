@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1585252405 source:/home/diogots/Documentos/2020/Faculdade Barretos/ED/EDs/Listas/Lista Estrutura/data.c
+
+1585579444 source:/home/diogots/Documentos/2020/Faculdade Barretos/ED/EDs/Listas/Lista Estrutura/listaEst.c
+	<stdio.h>
+	<stdlib.h>
+	"data.c"
+
+1585252405 /home/diogots/Documentos/2020/Faculdade Barretos/ED/EDs/Listas/Lista Estrutura/data.c
+
+1585579510 source:/home/diogots/Documentos/2020/Faculdade Barretos/ED/EDs/Listas/Lista Estrutura/preco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.c"
+	"listaEst.h"
+
+1585252597 /home/diogots/Documentos/2020/Faculdade Barretos/ED/EDs/Listas/Lista Estrutura/listaEst.h
+
